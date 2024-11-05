@@ -1,2 +1,6 @@
 Some text for header
-New chanhes!
+Changes from <master>
+Changes from <first>
+
+New changes!
+
